@@ -1,0 +1,10 @@
+{
+  "description": "Gestiona el estacionamiento público de la FCAEI-UAEM: registra vehículos, muestra espacios disponibles y ocupados en cuatro bloques y genera tickets QR con tiempo de estancia.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
